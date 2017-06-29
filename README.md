@@ -1,9 +1,3 @@
 Welcome to FN Rebase!
 
-Invite a few friends to engage in this activity with you.
-
-Hi this is Sam's portion of the README.
-
-Adding to this README.
-
-This is an experiment on rebase.
+Welcome to the Rebase demo. We'll be showing you how to rebase and squash hopefully.
