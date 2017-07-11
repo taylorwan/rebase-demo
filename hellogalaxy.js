@@ -1,1 +1,1 @@
-console.log('hello some other galaxy');
+console.log('hello galaxy');
